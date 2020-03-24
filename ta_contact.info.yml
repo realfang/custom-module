@@ -1,0 +1,5 @@
+name: TA Contact
+description: ‘TA Custom Contact Form'
+type: module 
+core: 8.x 
+package: TA Custom
